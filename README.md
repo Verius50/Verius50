@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Verius50)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Verius50)](https://github.com/ryo-ma/github-profile-trophy&theme=juicyfresh)
 <!--
 **Verius50/Verius50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
