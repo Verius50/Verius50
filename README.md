@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, My name is Milena, I'ma middle c++ developer.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Verius50&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Verius50/Verius50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
